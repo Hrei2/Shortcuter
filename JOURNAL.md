@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Shortcuter**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/155).
 
 
-## 10/4/2025 - Found the correct(and cheapest) parts  
+## 10/4/2025 8 PM - Found the correct(and cheapest) parts  
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mzg2LCJwdXIiOiJibG9iX2lkIn19--e4dff967ebfd3eb01918bc3d14e960683eaf33b0/image.png)
 
@@ -21,4 +21,14 @@ Anyways that is my current part list :/. Have to double check everything but it 
 Time spent(simplified to 53 min for logging):
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDAwLCJwdXIiOiJibG9iX2lkIn19--215fd99e7b15172f1da96532ad773812d8c09d23/image.png)
   
+
+## 10/4/2025 10 PM - Made a wire diagram, trello page, upgraded parts list  
+
+Created a trello page for this project. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDI1LCJwdXIiOiJibG9iX2lkIn19--156a5eb7ffe51bad4f5621d9c8d3aa0075c83174/image.png)
+
+Researched and made a schematic. (Sorry for the screen pins not being with their correct names. Could not understand how to do it corrctly) ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDI2LCJwdXIiOiJibG9iX2lkIn19--83d2b2d6abf2946ea51e5c0485ca693ad59312ef/image.png)
+
+Changed the screens to a Nextion one as my research showed it to be better(and more expensive :/). Changed the buzzers to a 2 pin version for now. Current running total is 64.55 EUR (at least I qualify for free shipping ;) ). There should be discounts from seventh to eight of October so should get it for cheaper. If not might sacrafice something.
+
+Will start writing the code tomorrow(today as it is 1:06 AM right now).  
 
