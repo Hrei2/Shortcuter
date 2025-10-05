@@ -32,3 +32,18 @@ Changed the screens to a Nextion one as my research showed it to be better(and m
 
 Will start writing the code tomorrow(today as it is 1:06 AM right now).  
 
+## 10/5/2025 - Too much stuff to fit in the header (╯°□°)╯︵ ┻━┻  
+
+1. Found aproximatly the same things in aliexpress. The total is about 48 EUR instead of 64 EUR now.
+
+2. Started learning about nextion screens. Installed the nextion editor and made the first possible button layout by calculating how big each button should be and guestimating the right size. Current version in the picture. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjIwLCJwdXIiOiJibG9iX2lkIn19--b84dd0c97f485932537b5a093b5888497d1b9008/image.png)
+
+3. Made the first iteration of arduino micro code. Also much guestimating because I found no way to emulate my planned set up. Currently have no physical buttons in my current code. Still thinking if they are required. And if it even will be required to have multiple screens. [O.o]
+
+4. Made the first design for the case. Found some mesurements on the web. 100% some things are completely off so I left more space free. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjIxLCJwdXIiOiJibG9iX2lkIn19--31cf77e3412748364c7beb13a1c18c3e79713d3d/image.png)
+
+5. Thinking of shipping the project now to understand the grant I would get and then thinking of what I should keep, what to remove, and what to downgrade.
+
+
+Will add all my file to my GitHub repository now.  
+
