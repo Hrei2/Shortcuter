@@ -47,3 +47,12 @@ Will start writing the code tomorrow(today as it is 1:06 AM right now).
 
 Will add all my file to my GitHub repository now.  
 
+## 10/8/2025 - Researched and made software to change stuff  
+
+I did a lot of research and started to make a program to change button functions and their images. Currently I do not know if the program even works as I do not have anything of the setup available and can't test if it pushes to the Arduino or screen. I will be able to test if this works after recieving the required parts(firstly need to find out in which tier I was approved to know how much wiggle room I have in case of mistakes).
+
+I will admit that I used ChatGPT for finishing the code. Research was done in WWW by hand an manually. That explains all the comments and stuff in the code. The only thing that gives it away. ;|
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--9f5573c754b703862aaad6729c495f21dc8e3987/image.png)  
+
